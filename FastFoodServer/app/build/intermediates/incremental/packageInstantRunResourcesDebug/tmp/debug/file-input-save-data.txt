@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon May 13 23:33:51 IST 2019
+0.baseType=DIRECTORY
+0.base=/home/iamrishav/Downloads/FastFoodServer/app/build/intermediates/assets/debug
+0.path=fonts/NABILA.TTF
+0.set=ASSET
+count=1

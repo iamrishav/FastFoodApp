@@ -1,0 +1,4 @@
+#Mon May 13 23:03:31 IST 2019
+base.0=/home/iamrishav/Downloads/FastFoodClient/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex
